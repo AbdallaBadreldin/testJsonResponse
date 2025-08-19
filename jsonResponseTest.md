@@ -348,8 +348,5 @@
     "repository": "",
     "department": "",
     "creditLine": ""
-  },
-   {
- 
   }
 ]
